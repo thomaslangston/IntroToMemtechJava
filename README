@@ -1,0 +1,11 @@
+This is the code samples from my Intro to Memtech: Java talk given at Launch Memphis.
+This talk was on September 12th, 2011.
+
+The code samples are a collectin of basic Java and Android applications including:
+  Hello, World examples of each
+  Some basic syntax examples
+  Recursion example
+  Inheiritance example
+  Android app that launches a Twitter keyword search on 'memtech'
+
+You'll need a JDK and Android SDK to compile the examples.
