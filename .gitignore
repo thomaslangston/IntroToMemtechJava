@@ -1,0 +1,4 @@
+*.class
+*.apk
+.metadata/
+bin/
